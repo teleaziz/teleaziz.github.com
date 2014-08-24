@@ -443,3 +443,17 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+.circular {
+	width: 280px;
+	height: 280px;
+	border-radius: 140px;
+	-webkit-border-radius: 140px;
+	-moz-border-radius: 140px;
+	background: url(img/profile.png) no-repeat;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	    position: relative;
+
+
+}
